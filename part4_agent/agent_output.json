@@ -1,0 +1,50 @@
+{
+  "run_month": "June",
+  "validation_status": "passed",
+  "validation_errors": [],
+  "flagged_categories": [
+    {
+      "category": "Ethnic Wear",
+      "previous_month": "May",
+      "current_month": "June",
+      "previous_revenue": 185107.61,
+      "current_revenue": 76371.53,
+      "mom_pct": -58.74,
+      "status": "flagged",
+      "narrative": "Ethnic Wear revenue decreased from \u20b9185,107.61 in May to \u20b976,371.53 in June. The month-over-month revenue change was -58.74%. This represents a substantial month-over-month revenue movement and should receive business attention. The available data confirms the revenue movement but does not establish a specific cause. Review the June Ethnic Wear performance to identify measurable changes in order volume, pricing, or other relevant factors."
+    },
+    {
+      "category": "Home & Kitchen",
+      "previous_month": "May",
+      "current_month": "June",
+      "previous_revenue": 91152.57,
+      "current_revenue": 129971.22,
+      "mom_pct": 42.59,
+      "status": "flagged",
+      "narrative": "Home & Kitchen revenue increased from \u20b991,152.57 in May to \u20b9129,971.22 in June. The month-over-month revenue change was +42.59%. This represents a substantial month-over-month revenue movement and should receive business attention. The available data confirms the revenue movement but does not establish a specific cause. Review the June Home & Kitchen performance to identify measurable changes in order volume, pricing, or other relevant factors."
+    },
+    {
+      "category": "Kids Wear",
+      "previous_month": "May",
+      "current_month": "June",
+      "previous_revenue": 45793.78,
+      "current_revenue": 56737.78,
+      "mom_pct": 23.9,
+      "status": "flagged",
+      "narrative": "Kids Wear revenue increased from \u20b945,793.78 in May to \u20b956,737.78 in June. The month-over-month revenue change was +23.90%. This represents a substantial month-over-month revenue movement and should receive business attention. The available data confirms the revenue movement but does not establish a specific cause. Review the June Kids Wear performance to identify measurable changes in order volume, pricing, or other relevant factors."
+    }
+  ],
+  "suppressed_categories": [
+    {
+      "category": "Western Wear",
+      "previous_month": "May",
+      "current_month": "June",
+      "previous_revenue": 86998.18,
+      "current_revenue": 97415.64,
+      "mom_pct": 11.97,
+      "status": "flagged"
+    }
+  ],
+  "escalated_categories": [],
+  "action_taken": "Top 3 flagged categories selected for detailed review."
+}

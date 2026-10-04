@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "required": [
+    "run_month",
+    "validation_status",
+    "validation_errors",
+    "flagged_categories",
+    "suppressed_categories",
+    "escalated_categories",
+    "action_taken"
+  ],
+  "properties": {
+    "run_month": {
+      "type": "string"
+    },
+    "validation_status": {
+      "type": "string"
+    },
+    "validation_errors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "flagged_categories": {
+      "type": "array"
+    },
+    "suppressed_categories": {
+      "type": "array"
+    },
+    "escalated_categories": {
+      "type": "array"
+    },
+    "action_taken": {
+      "type": "string"
+    }
+  }
+}
